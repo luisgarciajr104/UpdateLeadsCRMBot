@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Customer Service",
+  "Type": "App",
+  "Id": "3VYWks4j_kmv-nznniGPmA",
+  "Reference": "usi96x4ObkigBVwQgOVuvQ/3VYWks4j_kmv-nznniGPmA",
+  "Created": "2025-07-27T17:56:22.2306094Z",
+  "Updated": "2025-07-27T17:56:22.2306094Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

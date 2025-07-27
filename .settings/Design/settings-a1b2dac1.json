@@ -1,6 +1,6 @@
 ﻿{
   "UiPath.UIAutomationNext.Activities.Generic.CaptureScreenshots": "True",
-  "UiPath.UIAutomationNext.Activities.Generic.EnableAutoAddToOR": "True",
+  "UiPath.UIAutomationNext.Activities.Generic.EnableAutoAddToOR": "False",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.InteractionMode": "HardwareEvents",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.FullSelector": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.FuzzySelector": "True",
